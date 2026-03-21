@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Large binary files – usually don't commit these
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.onnx
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
