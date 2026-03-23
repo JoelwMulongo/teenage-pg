@@ -11,9 +11,7 @@ Built with **Streamlit** for an easy-to-use interface and trained on local socio
 
 ## ✨ Demo
 
-(You can add a screenshot or GIF here later)
-
-https://github.com/joelwmulongo/teenage-pg/assets/pred.png
+<img src="assets/pred.png">
 
 ## Features
 
